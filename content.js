@@ -7,7 +7,7 @@ function addStyle() {
             background-color: transparent;
             border-radius: 12px;
             box-sizing: border-box;
-            font-family: 'Google Sans',Arial,sans-serif;
+            font-family: 'Roboto',Arial,sans-serif;
             font-size: .875rem;
             font-weight: 500;
             line-height: 1.25rem;
